@@ -14,7 +14,7 @@
 | Rodrigo Corzo, Ernesto | 202310441 |
 | Rojas Llanos, Sergio | 202410758 |
 
-**Repositorio:** https://github.com/sergio453LOL/ProyectoBackend<br>
+**Repositorio:** https://github.com/sergio453LOL/BackendRentequipV2<br>
 **Deployment:** _pendiente (ver [Estado de la entrega](#estado-de-la-entrega))_
 
 ---
@@ -166,7 +166,7 @@ La asincronía corresponde al trabajo posterior, y está diseñada sobre `@Trans
 **Requisitos:** Docker Desktop. (JDK 21 solo si se ejecuta desde el IDE.)
 
 ```bash
-git clone https://github.com/sergio453LOL/ProyectoBackend.git
+git clone https://github.com/sergio453LOL/BackendRentequipV2.git
 cd ProyectoBackend
 docker compose up -d --build
 ```
