@@ -6,11 +6,11 @@
 
 **Integrantes:**
 
-| Integrante | Código |
-|---|---|
+| Integrante | Código    |
+|---|-----------|
 | Ayala Vega, Valeria | 202310180 |
 | Cadenas Hidalgo, Anthony Darian | 202510031 |
-| Ramos Calderón, Mary Sofía | — |
+| Ramos Calderón, Mary Sofía | 202510158 |
 | Rodrigo Corzo, Ernesto | 202310441 |
 | Rojas Llanos, Sergio | 202410758 |
 
